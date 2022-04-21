@@ -2,7 +2,7 @@
 
 ## Description 
 
-This application was created to generate a quality, professional README depending on a series of questions a user answers in their command line using Node.js 
+This application was created to generate a quality, professional README depending on a series of questions a user answers using command line and Node.JS on Terminal
 ## Table of Contents (Optional)
 
 If your README is very long, add a table of contents to make it easy for users to find what they need.
@@ -16,11 +16,11 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ## Installation
 
-The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module. 
+The user can clone the repository from Github and download Node.js. This app requires a file system and inquirer module.
 
 ## Usage 
 
-  Use inquirer from your command line to answer questions about your project.
+Use inquirer from command line to answer questions regarding your project. 
 
 
 ## Credits
@@ -41,11 +41,11 @@ MIT
 
 ## Contributing
 
-Contributors should take note of the installation section.
+Contributors should take note of the installation instructions.
 
 ## Tests
 
-Npm test and node index.js
+npm tests 
 ---
 
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.

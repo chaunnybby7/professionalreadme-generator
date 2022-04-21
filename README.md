@@ -23,6 +23,7 @@ The user should clone the repository from GitHub and download Node. This applica
 
   Use inquirer from your command line to answer questions about your project.
 
+![Demo](assets/images/README%20Generator.gif)
 
 ## Credits
 
