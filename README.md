@@ -29,7 +29,6 @@ https://user-images.githubusercontent.com/97390473/164952679-bffdccf3-ca75-45e8-
 
   
 
-![Demo](assets/images/README%20Generator.gif)
 
 ## Credits
 
