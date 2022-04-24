@@ -45,12 +45,8 @@ MIT
 ## Badges
 
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
+[![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
 
-<BR>
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<BR>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chaunnybby7&theme=blue-green)
 
 
 
