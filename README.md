@@ -45,7 +45,7 @@ MIT
 ## Badges
 
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
-[![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
+
 
 
 
