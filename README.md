@@ -56,4 +56,8 @@ Contributors should take note of the installation section.
 Npm test and node index.js
 ---
 
+## Deployed Link
+* https://github.com/chaunnybby7/professionalreadme-generator
+* https://chaunnybby7.github.io/professionalreadme-generator/
+
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
