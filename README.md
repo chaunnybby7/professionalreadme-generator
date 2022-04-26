@@ -24,6 +24,9 @@ The user should clone the repository from GitHub and download Node. This applica
   Use inquirer from your command line to answer questions about your project.
 
 
+https://user-images.githubusercontent.com/97390473/165406243-3260ffa3-e98a-4422-adc9-6666f195ebfc.mp4
+
+
   Or go to <a href="https://drive.google.com/file/d/1diJVzmv64yvA5jbAklTIrZbuJd5osAq-/view" alt="Professional Readme Generator"> Professional Readme Generator video </a>
 
 
