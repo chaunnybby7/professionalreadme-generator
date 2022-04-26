@@ -22,7 +22,7 @@ The user should clone the repository from GitHub and download Node. This applica
 ## Usage 
 
   Use inquirer from your command line to answer questions about your project.
- <iframe src="https://drive.google.com/file/d/1diJVzmv64yvA5jbAklTIrZbuJd5osAq-/preview" width="640" height="480"></iframe>
+
 
   Or go to <a href="https://drive.google.com/file/d/1diJVzmv64yvA5jbAklTIrZbuJd5osAq-/view" alt="Professional Readme Generator"> Professional Readme Generator video </a>
 
